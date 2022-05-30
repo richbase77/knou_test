@@ -7,3 +7,4 @@
 2*7 = 14
 2*8 = 16
 2*9 = 18
+this is time table 2
